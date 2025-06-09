@@ -1,0 +1,185 @@
+[
+  { 
+  "id": 1,  
+  "commodity": "Dry Maize (White)",
+    "market": "Kangeta",
+    "wholesale_price": 50.0,
+    "retail_price": 60.0,
+    "unit": "kg",
+    "date": "20/05/2025"
+  },
+  { 
+  "id": 2,  
+  "commodity": "Beans",
+    "market": "Gikomba",
+    "wholesale_price": 100.0,
+    "retail_price": 120.0,
+    "unit": "kg",
+    "date": "20/05/2025"
+  },
+  {
+    "id": 3,
+    "commodity": "Tomatoes",
+    "market": "Wakulima",
+    "wholesale_price": 80.0,
+    "retail_price": 100.0,
+    "unit": "kg",
+    "date": "20/05/2025"
+  },
+  {
+    "id": 4,
+    "commodity": "Irish Potatoes",
+    "market": "Kangeta",
+    "wholesale_price": 60.0,
+    "retail_price": 75.0,
+    "unit": "kg",
+    "date": "20/05/2025"
+  },
+  {
+    "id": 5,
+    "commodity": "Cabbage",
+    "market": "Meru",
+    "wholesale_price": 25.0,
+    "retail_price": 35.0,
+    "unit": "piece",
+    "date": "20/05/2025"
+  },
+  {
+   "id": 6,
+    "commodity": "peanuts(White)",
+    "market": "Kangundo",
+    "wholesale_price": 100.0,
+    "retail_price": 80.0,
+    "unit": "kg",
+    "date": "20/05/2025"
+  },
+  {
+    "id": 7,
+    "commodity": "Mint",
+    "market": "Gikomba",
+    "wholesale_price": 100.0,
+    "retail_price": 120.0,
+    "unit": "kg",
+    "date": "20/05/2025"
+  },
+  {
+    "id": 8,
+    "commodity": "Sukuma Wiki",
+    "market": "Wakulima",
+    "wholesale_price": 80.0,
+    "retail_price": 100.0,
+    "unit": "kg",
+    "date": "20/05/2025"
+  },
+  {
+    "id": 9,
+    "commodity": "Sweet Potatoes",
+    "market": "Kangeta",
+    "wholesale_price": 60.0,
+    "retail_price": 75.0,
+    "unit": "kg",
+    "date": "20/05/2025"
+  },
+  {
+    "id": 10,
+    "commodity": "paw paw",
+    "market": "Meru",
+    "wholesale_price": 25.0,
+    "retail_price": 35.0,
+    "unit": "kg",
+    "date": "20/05/2025"
+  },
+  [
+  {
+    "id": 11,
+    "commodity": "Lettuce",
+    "market": "Kangeta",
+    "wholesale_price": 50.0,
+    "retail_price": 60.0,
+    "unit": "kg",
+    "date": "20/05/2025"
+  },
+  {
+    "id": 12,
+    "commodity": "Beans(yellow)",
+    "market": "Gikomba",
+    "wholesale_price": 100.0,
+    "retail_price": 120.0,
+    "unit": "kg",
+    "date": "20/05/2025"
+  },
+  {
+    "id": 13,
+    "commodity": "Onion (red)",
+    "market": "Wakulima",
+    "wholesale_price": 80.0,
+    "retail_price": 100.0,
+    "unit": "kg",
+    "date": "20/05/2025"
+  },
+  {
+    "id": 14,
+    "commodity": "Beetroot",
+    "market": "Kangeta",
+    "wholesale_price": 60.0,
+    "retail_price": 75.0,
+    "unit": "kg",
+    "date": "20/05/2025"
+  },
+  {
+    "id": 15,
+    "commodity": "Watermelon",
+    "market": "Meru",
+    "wholesale_price": 25.0,
+    "retail_price": 35.0,
+    "unit": "piece",
+    "date": "20/05/2025"
+  },
+  {
+   "id": 16,
+    "commodity": "peanuts(red)",
+    "market": "Kangundo",
+    "wholesale_price": 100.0,
+    "retail_price": 80.0,
+    "unit": "kg",
+    "date": "20/05/2025"
+  },
+  {
+    "id": 17,
+    "commodity": "Basil",
+    "market": "Gikomba",
+    "wholesale_price": 100.0,
+    "retail_price": 120.0,
+    "unit": "kg",
+    "date": "20/05/2025"
+  },
+  {
+    "id": 18,
+    "commodity": "Spinach",
+    "market": "Wakulima",
+    "wholesale_price": 80.0,
+    "retail_price": 100.0,
+    "unit": "kg",
+    "date": "20/05/2025"
+  },
+  {
+    "id": 19,
+    "commodity": "Green Bananas",
+    "market": "Kangeta",
+    "wholesale_price": 60.0,
+    "retail_price": 75.0,
+    "unit": "kg",
+    "date": "20/05/2025"
+  },
+  {
+    "id": 20,
+    "commodity": "Mangoes",
+    "market": "Meru",
+    "wholesale_price": 25.0,
+    "retail_price": 35.0,
+    "unit": "kg",
+    "date": "20/05/2025"
+  }
+]
+
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "commodity": "Maize",
+    "market": "Eldoret",
+    "unit": "90kg bag",
+    "wholesale_price": 2800,
+      "trend": "./uptrend.png"
+  },
+  {
+    "commodity": "Beans",
+    "market": "Wakulima",
+    "unit": "90kg bag",
+    "wholesale_price": 7200,
+    "trend": "./downtrend.png"
+  },
+  {
+    "commodity": "Tomatoes",
+    "market": "Wakulima",
+    "unit": "crate",
+    "wholesale_price": 4800,
+    "trend": "./downtrend.png"
+  },
+  {
+    "commodity": "Kales (Sukuma Wiki)",
+    "market": "Githurai",
+    "unit": "bunch",
+    "wholesale_price": 25,
+      "trend": "./uptrend.png"
+  },
+  {
+    "commodity": "Potatoes",
+    "market": "Kongowea",
+    "unit": "50kg bag",
+    "wholesale_price": 1500,
+      "trend": "./downtrend.png"
+  },
+  {
+    "commodity": "Onions",
+    "market": "Kongowea",
+    "unit": "kg",
+    "wholesale_price": 70,
+    "trend": "./uptrend.png"
+  },
+  {
+    "commodity": "Cabbage",
+    "market": "Wakulima",
+    "unit": "head",
+    "wholesale_price": 40,
+    "trend": "./downtrend.png"
+  },
+  {
+    "commodity": "Wheat",
+    "market": "Nakuru",
+    "unit": "90kg bag",
+    "wholesale_price": 4300,
+    "trend": "./uptrend.png"
+  },
+  {
+    "commodity": "Sugarcane",
+    "market": "Kakamega",
+    "unit": "ton",
+    "wholesale_price": 3500,
+    "trend": "./uptrend.png"
+  },
+  {
+    "commodity": "Avocados",
+    "market": "Murang’a",
+    "unit": "crate",
+    "wholesale_price": 2500,
+    "trend": "./uptrend.png"
+  }
+]
